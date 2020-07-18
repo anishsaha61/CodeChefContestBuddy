@@ -1,0 +1,19 @@
+.header {
+  width: 100%;
+  font-size: 25px;
+  font-weight: bolder;
+  display: flex;
+  align-items: center;
+  padding: 15px 0;
+  background: #141d26;
+  color: #c51f5d;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+.headerText {
+  flex: 1;
+  text-align: center;
+  /* align-self: center; */
+}

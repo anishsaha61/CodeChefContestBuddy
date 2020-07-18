@@ -1,0 +1,13 @@
+.Card:hover {
+  cursor: pointer;
+}
+.visitSite {
+  font-weight: bolder;
+  text-align: center;
+  font-size: 20px;
+  color: #c51f5d;
+  background-color: #141d26;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 5px;
+}

@@ -1,0 +1,12 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 0;
+}
+.mainContainer > h1 {
+  text-align: center;
+  color: #c51f5d;
+  margin-bottom: 30px;
+  padding: 15px;
+}
